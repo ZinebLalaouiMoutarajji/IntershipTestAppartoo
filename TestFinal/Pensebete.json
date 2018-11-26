@@ -1,0 +1,104 @@
+{
+    "code": 200,
+    "bars": [{
+        "id": 1627,
+        "address": "100 Rue Saint-Martin, 75004 Paris, France, Opera and Les Halles, Paris",
+        "name": "Caf\u00e9 Beaubourg",
+        "url": "/bar/paris/opera-and-les-halles/cafe-beaubourg",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23shoplifterspix1/merlin_146950422_cdf94069-a72a-4dfb-ae9d-6d4222e39c29-mediumThreeByTwo210.jpg",
+        "tags": "Bar, Gay, Cafe, Dinner, Lunch",
+        "latitude": 48.860033826521,
+        "longitude": 2.3508920416641
+    }, {
+        "id": 1259,
+        "address": "19 Rue Beaubourg, 75004 Paris, France, Bastille and the Marais, Paris",
+        "name": "Georges",
+        "url": "/bar/paris/bastille-and-the-marais/georges",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23becomingastrid/23becomingastrid-mediumThreeByTwo210-v2.jpg",
+        "tags": "Serves Food, Great View, Rooftop, Terrace, Rock",
+        "latitude": 48.8603,
+        "longitude": 2.35097
+    }, {
+        "id": 4528,
+        "address": "45 Rue Quincampoix, 75004 Paris, Bastille and the Marais, Paris",
+        "name": "La caves a bulles",
+        "url": "/bar/paris/bastille-and-the-marais/la-caves-a-bulles",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23thefavourite-print1/23thefavourite-print1-mediumThreeByTwo210-v3.jpg",
+        "tags": "Beer",
+        "latitude": 48.8611042,
+        "longitude": 2.3501592
+    }, {
+        "id": 1988,
+        "address": "58 Rue Quincampoix 4e Arrondissement, Bastille and the Marais, Paris",
+        "name": "Brooklyn",
+        "url": "/bar/paris/bastille-and-the-marais/brooklyn",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23inquiringnuns/23inquiringnuns-mediumThreeByTwo210-v2.jpg",
+        "tags": "Cocktail, Beer",
+        "latitude": 48.861299,
+        "longitude": 2.350688
+    }, {
+        "id": 4436,
+        "address": "60 Rue Quincampoix, Paris IV, Bastille and the Marais, Paris",
+        "name": "Le Barberousse",
+        "url": "/bar/paris/bastille-and-the-marais/le-barberousse",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23invisible1/23invisible1-mediumThreeByTwo210-v2.jpg",
+        "tags": "Rum, Cocktail",
+        "latitude": 48.8614786,
+        "longitude": 2.3507301
+    }, {
+        "id": 4317,
+        "address": "13 Rue Nungesser et Coli, 75016 Paris, Outer Paris, Paris",
+        "name": "Hotel Molitor",
+        "url": "/bar/paris/outer-paris/hotel-molitor",
+        "image_url": "https://static01.nyt.com/images/2018/11/23/arts/23write1/write1-mediumThreeByTwo210.jpg",
+        "tags": "Hotel, Cocktail, Wine, Beer, Great View, Rooftop",
+        "latitude": 48.8446534,
+        "longitude": 2.2522195
+    }],
+    "neighborhoods": [{
+        "id": 1,
+        "name": "Bastille and the Marais",
+        "slug": "bastille-and-the-marais"
+    }, {
+        "id": 2,
+        "name": "Champs Elysees",
+        "slug": "champs-elysees"
+    }, {
+        "id": 3,
+        "name": "Le Louvre",
+        "slug": "le-louvre"
+    }, {
+        "id": 4,
+        "name": "Montmartre and the North",
+        "slug": "montmartre-and-the-north"
+    }, {
+        "id": 5,
+        "name": "Opera and Les Halles",
+        "slug": "opera-and-les-halles"
+    }, {
+        "id": 6,
+        "name": "St Germain and the Latin Quarter",
+        "slug": "st-germain-and-the-latin-quarter"
+    }, {
+        "id": 37,
+        "name": "Eiffel Tower",
+        "slug": "eiffel-tower"
+    }, {
+        "id": 59,
+        "name": "Outer Paris",
+        "slug": "outer-paris"
+    }, {
+        "id": 1275,
+        "name": "City-Center",
+        "slug": "city-center"
+    }, {
+        "id": 1478,
+        "name": "R\u00e9publique",
+        "slug": "republique"
+    }],
+    "city": {
+        "name": "Paris, France",
+        "nameonly": "Paris",
+        "id": 1
+    }
+}
